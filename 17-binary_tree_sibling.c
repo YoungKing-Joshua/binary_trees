@@ -3,7 +3,7 @@
 /**
  * binary_tree_sibling - Finds the sibling of a
  *                       node in binary tree.
- * 
+ *
  * @node: Pointer to the node to find the sibling
  *
  * Return: If node is NULL or there is no sibling - NULL.
