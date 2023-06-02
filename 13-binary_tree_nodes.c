@@ -6,7 +6,7 @@
  *
  * @tree: Pointer to the root node of the tree to count the number of nodes
  *
- * Return: If tree is NULL, the function must return zero (0), 
+ * Return: If tree is NULL, the function must return zero (0),
  * else return node count
  */
 
